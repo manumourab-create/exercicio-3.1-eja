@@ -1,0 +1,64 @@
+PARTE D — DIAGRAMA AS-IS DO EXERCÍCIO 3.1
+
+A estudante solicitou na conversa de acompanhamento: "Ele terminou os ajustes C01 e C02. Pode conferir se ficou tudo certo para seguirmos para a Parte D no terminal?" A conferência foi concluída: a Q10 confere com a evidência fornecida; Q1–Q9, dez respostas e decisões foram preservadas; C02 distingue interação visível de análise interna e alinha PF-05; a estrutura continua com cinco etapas, cinco camadas, três fronteiras, 17 atores/funções e quatro riscos. Os hashes de A/B e do contexto 2.1 conferem com o registro C01/C02. Esta conferência é textual e estrutural, não uma nova auditoria factual integral nem um resultado de autograde.
+
+Agora avance à Parte D. A instrução anterior de parar antes de D valeu para a elaboração/revisão da Parte C; esta solicitação autoriza elaborar D a partir da versão conferida. Permanecem as restrições de não executar Git, publicação, autograde ou submissão. Não é necessária nova entrevista para representar decisões já confirmadas.
+
+1. CONTEXTO E PRESERVAÇÃO
+
+- Trabalhe na pasta /Users/rosyemannuelemouradossantos/Documents/ChatGPT/exercicio-3.1-eja.
+- Leia C_blueprint_asis.md já corrigido, C_grill_transcript.md (especialmente Q1–Q10), README.md e contexto/roteiro_3_1.md. Consulte B_relatorio_assistente_v3.md somente se precisar esclarecer a base de uma relação já modelada.
+- Preserve A, todos os B, os dois C e contexto/exercicio_2_1. Registre seus hashes antes/depois. Não edite respostas nem decisões e não reescreva C para acomodar um desenho diferente.
+- Crie D_diagrama_asis.md e atualize somente o andamento atual e o índice do README. Pode guardar este pedido em contexto/ como registro da orientação; não acrescente outro entregável na raiz.
+
+2. RESULTADO ESPERADO
+
+Produza um diagrama Mermaid legível que mostre relações explícitas entre etapas, ações e atores da Parte C. Use setas rotuladas para indicar encaminhamentos, decisões, retornos e apoios. Não basta uma lista de atores ou caixas. O documento deve ter título do serviço, recorte sucinto, legenda, o(s) bloco(s) Mermaid e um quadro curto de correspondência com E1–E5, H1–H9/H3a/H3b/H7a/H7b do blueprint, rodadas da entrevista e riscos selecionados.
+
+Pode dividir a visualização em dois ou três blocos complementares — acesso/ingresso; permanência/apoios; desfechos/retorno — para evitar um diagrama único ilegível. Se dividir, indique claramente as conexões entre blocos e mantenha os identificadores E1–E5 e a nomenclatura dos atores consistentes. Eles compõem a mesma jornada. Não é preciso reproduzir toda a matriz de cinco camadas como uma segunda tabela gigante; quando usar agrupamentos de visibilidade, eles devem respeitar C02.
+
+Represente as participações dos 17 atores/funções confirmados em C, com nomes curtos e equivalências explícitas no quadro. Funções podem aparecer em mais de uma ação; não fixe uma instituição inteira em uma camada. Diferencie graficamente canais/sistemas, ações/decisões e responsáveis humanos, sem atribuir autonomia decisória a Portal, SAGEAL, Educacenso ou SEI.
+
+3. RELAÇÕES OBRIGATÓRIAS E LIMITES
+
+ACESSO E INGRESSO
+
+- E1 conduz à solicitação. A rota do portal/alocação e a entrada presencial direta convergem no atendimento/conferência da Secretaria em E2. Nenhuma entrada pode pular essa conferência.
+- Após a conferência, diferencie comprovante de estudos disponível → análise documental e ausência de comprovante → aplicação/interação da avaliação → análise de resultados/registro formal → deliberação do Conselho de Classe. Não imponha classificação a todos.
+- As duas vias convergem na análise/deferimento pela Gestão/Secretário antes de registro e enturmação e do ingresso/acolhimento E3. Distinga a comunicação do resultado ao estudante; responsável, meio, prazo e comprovante específicos permanecem a confirmar.
+- Preserve C02: aplicação/interação diante do estudante é contato visível; análise e registro fora desse contato são internos. A visibilidade concreta da conferência documental é [H/L], não observada.
+- Alocação de vagas é uma função do serviço com responsável operacional não confirmado. Não atribua a decisão à GEGEV ou ao portal, nem desenhe algoritmo automático. Mostre os limites da atribuição da GEGEV e do suporte técnico.
+
+PERMANÊNCIA E APOIOS
+
+- Conecte E3 à participação em aulas e ao acompanhamento E4. Mostre relações entre estudante, docentes, Coordenação e Gestão, com comunicação de faltas, contato, acompanhamento e recomposição conforme a base de C.
+- Diferencie a comunicação docente do gatilho de três faltas na semana para atuação da Coordenação. Não desenhe uma espera obrigatória por três faltas para o docente comunicar nem um fluxo automático de desligamento.
+- Alimentação: planejamento/logística institucional → equipe de preparo/entrega → contato com estudante; preparo e entrega têm visibilidades distintas e execução local pendente.
+- Transporte: organização institucional → operador → deslocamento do estudante quando houver oferta; cobertura, identidade e modelo pendentes. Apoios não são requisitos universais impostos a todos os estudantes.
+- Mostre calendário e governança como sustentação, e não como ações que cada estudante precisa executar: Conselho Escolar aprova; Inspeção da GEE homologa; tramitação documentada via SEI. A GEE no polo/encaminhamento e a Inspeção na homologação são funções distintas. Pedidos excepcionais de turmas e autorização da Superintendência são condicionais, não caminho obrigatório de toda matrícula.
+- Distinga sustentação técnica de Portal/SAGEAL de operação dos registros; identidade/divisão das equipes permanece a confirmar. BUSCAE é programa e AJUS é previsão documental com aplicação atual pendente, sem promessa de abono irrestrito.
+
+DESFECHOS E RETORNO
+
+- E5 deve distinguir conclusão de módulo com continuidade, avanço com pendências, conclusão integral do Ensino Médio, transferência, interrupção e possibilidade de retorno.
+- Continuidade liga-se a E3/E4; conclusão integral tem documentação; transferência não é abandono; retorno liga-se à análise de ingresso E2 conforme o caso, sem aproveitamento automático.
+- Não faça da interrupção uma consequência automática de um alerta de faltas. A representação deve considerar os diferentes percursos possíveis.
+- A declaração censitária é um ramo de registro estatístico baseado na situação individual, distinto de avaliação de módulo e de decisão sobre matrícula. Não crie seta que sugira que declarar no Educacenso causa conclusão, abandono ou retorno. Não presuma integração entre Educacenso e SAGEAL.
+
+RISCOS E EVIDÊNCIAS
+
+- Destaque apenas os quatro riscos escolhidos: PF-02 (classificação), PF-05 (frequência/trabalho/cuidado), PF-08 (comunicação da busca ativa), PF-10 (alocação divergente). Use chamadas vinculadas às ações pertinentes, sem fazê-los parecer uma sequência inevitável nem etapas obrigatórias.
+- PF-05 deve ficar ligado à experiência/disponibilidade do estudante e ao acompanhamento, conforme C02; PF-08 à comunicação interna. PF-10 deve estar ligado à alocação/resultado, não à aprovação do Conselho de Classe.
+- Todos são riscos inferidos [R], sem ocorrência local comprovada nem hierarquia empírica de gravidade. Não use apenas cor para transmitir esse status: escreva nos rótulos/legenda.
+- Preserve rótulos [N], [O], [H], [R], [L] de C ou uma equivalência textual explícita. Inclua pendências junto das relações relevantes, com referência ao quadro de C, sem fingir pesquisa de campo.
+- CRAS, Saúde e apoio pessoal permanecem contexto a investigar, fora das ações modeladas, conforme Q9. Não acrescente atores, sistemas, integrações, prazos ou fluxos novos.
+- Setas de relação funcional não comprovam que o fluxo foi observado nem implicam API ou sincronização entre sistemas. Explique a diferença entre sequência da jornada, encaminhamento e suporte na legenda.
+
+4. CONFERÊNCIA E CONCLUSÃO
+
+- Confira cada nó/ator e relação com a Parte C e suas decisões. Explicite a correspondência dos H usados com o blueprint, sem reaproveitar a numeração diferente dos handoffs da pesquisa B.
+- Verifique sintaxe dos blocos Mermaid, fechamento das cercas de código, identificadores consistentes e ausência de nós soltos sem função. Rótulos com acentos/parênteses devem ser delimitados de modo compatível com Mermaid.
+- Se houver ferramenta local de parse/render Mermaid já disponível, use-a e corrija eventuais erros. Não instale dependências globais ou novos serviços apenas para isso. Se não houver validação executável disponível, faça conferência textual e informe essa limitação; não declare renderização validada sem tê-la executado.
+- Verifique que as duas rotas de ingresso alcançam conferência, bifurcação, deferimento e registro na ordem correta; que há continuidade/retorno explícitos; e que riscos/suportes não são caminhos compulsórios do estudante.
+- Compare os hashes protegidos antes/depois. Atualize o README para indicar D produzida e pendente de revisão, preservando a autoria e o histórico real das etapas anteriores. As frases de parada contidas em respostas históricas do transcript não devem ser editadas.
+- Ao final, informe os arquivos produzidos, as verificações realmente realizadas e eventuais limitações. Pare para revisão da Parte D, sem Git, publicação, autograde ou submissão.

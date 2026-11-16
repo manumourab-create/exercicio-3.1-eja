@@ -1,0 +1,61 @@
+{
+  "data": "2026-11-16",
+  "autor": "Codex / OpenAI",
+  "sha256_D_antes": "7b57ce13ef2e4f648088048e2cec4a713072bd61eb2c4d3d88d25746df075399",
+  "sha256_D_depois": "277537f4cce94640aa6075b5c2f26b655136673deda45e90beec7d231f064c17",
+  "sha256_blocos": [
+    "4e195dd9a08a9fcfd4f114188b902dab60d0b575bf21e762daf6ef3cf2c89f53",
+    "9b15c865db37b518a3ce21d568776f4159750dd67ab277376cd35c8ece7ab2c1",
+    "a620e5be0304f93cf7bfc1b98128d4c93e94fa410c60e061abeeef332c056d5b"
+  ],
+  "blocos_inalterados": true,
+  "hashes_protegidos_antes": {
+    "A_meta_prompt.md": "4596ddcbdf16d409be568c94c286e88bd496ffbfae6ee64941681f1cc31699b2",
+    "B_relatorio_auditoria_v1.md": "63f52c6d6130ca6de88a8065302659a7a6565eea529d1855e0cd4a468447ece5",
+    "B_relatorio_assistente_v1.md": "6f46cf3ba1c8cafa43f3912bdbdf8d8390aff6ce848e12185f05143ab3c30e1c",
+    "B_relatorio_assistente_v2.md": "ef5a5b4db533371b48efc9f8f280bccd81b8f34e3c9a810c993380ea4d45adde",
+    "B_relatorio_auditoria_v2.md": "e05be73cb322efbaefc8d2adb1d2c1210a61ddbd8e99f529a0ebd547d28b199f",
+    "B_relatorio_assistente_v3.md": "2bc753148e095219f50f72c677aba631dc4df88a628d0cdb90a4599831a4c984",
+    "C_grill_transcript.md": "91b116e4e443679faa8baa82457097ea50b7d38cb02b057b84411db25b6a05f7",
+    "C_blueprint_asis.md": "1eea2ccb142a3fcb8f0a185bd124c402bfedc561cd5d36d5e72066bcd2eb8678",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v1.md": "284c80074a139fa28e06fd886b3f13ec716a8a8910b61dcaf7b7d742687a3b98",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v1.md": "2da6accc7f47c54df0ed9e9aa03ea04275ef9d1856845f2ddb322b4998a7bdc7",
+    "contexto/exercicio_2_1/README.md": "45b4630f323a3a818ac85dfbd15027e734566310d83305f4f1ad53e970de759a",
+    "contexto/exercicio_2_1/C_grill_transcript.md": "948ab38f9d1247684d474ecee1dbbf579291e75fbf4b6ffc4a10c0edd9ae7025",
+    "contexto/exercicio_2_1/C_mapa_atores.md": "5d0f2e902f7219f9dca0249f2d068fc54807c97654f86408c28a94897c5fe343",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v2.md": "18da8dece4a2c61fa751464c8dcf9dbb49c762ff21fd10e7cba13613779a5f51",
+    "contexto/exercicio_2_1/A_meta_prompt.md": "a0600b55dcb574e3f88267c0cde233c41c8f90d9616e4f5b8cee9a6c2ea193aa",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v2.md": "184e07df3bcb8396c6983f2cd0ce68dd186541e2bff8bd51d9ef85391c733ed8",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v3.md": "20ca816d201ba855935a609d0c98ab865b6453b246642f0e25b58be3e65967de",
+    "contexto/parte_d/verificacao_parte_d.json": "ebcc5f671c50aef4a20172f78021c9fbff45e9469fcf1efb637f7fe1323105f1"
+  },
+  "hashes_protegidos_depois": {
+    "A_meta_prompt.md": "4596ddcbdf16d409be568c94c286e88bd496ffbfae6ee64941681f1cc31699b2",
+    "B_relatorio_auditoria_v1.md": "63f52c6d6130ca6de88a8065302659a7a6565eea529d1855e0cd4a468447ece5",
+    "B_relatorio_assistente_v1.md": "6f46cf3ba1c8cafa43f3912bdbdf8d8390aff6ce848e12185f05143ab3c30e1c",
+    "B_relatorio_assistente_v2.md": "ef5a5b4db533371b48efc9f8f280bccd81b8f34e3c9a810c993380ea4d45adde",
+    "B_relatorio_auditoria_v2.md": "e05be73cb322efbaefc8d2adb1d2c1210a61ddbd8e99f529a0ebd547d28b199f",
+    "B_relatorio_assistente_v3.md": "2bc753148e095219f50f72c677aba631dc4df88a628d0cdb90a4599831a4c984",
+    "C_grill_transcript.md": "91b116e4e443679faa8baa82457097ea50b7d38cb02b057b84411db25b6a05f7",
+    "C_blueprint_asis.md": "1eea2ccb142a3fcb8f0a185bd124c402bfedc561cd5d36d5e72066bcd2eb8678",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v1.md": "284c80074a139fa28e06fd886b3f13ec716a8a8910b61dcaf7b7d742687a3b98",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v1.md": "2da6accc7f47c54df0ed9e9aa03ea04275ef9d1856845f2ddb322b4998a7bdc7",
+    "contexto/exercicio_2_1/README.md": "45b4630f323a3a818ac85dfbd15027e734566310d83305f4f1ad53e970de759a",
+    "contexto/exercicio_2_1/C_grill_transcript.md": "948ab38f9d1247684d474ecee1dbbf579291e75fbf4b6ffc4a10c0edd9ae7025",
+    "contexto/exercicio_2_1/C_mapa_atores.md": "5d0f2e902f7219f9dca0249f2d068fc54807c97654f86408c28a94897c5fe343",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v2.md": "18da8dece4a2c61fa751464c8dcf9dbb49c762ff21fd10e7cba13613779a5f51",
+    "contexto/exercicio_2_1/A_meta_prompt.md": "a0600b55dcb574e3f88267c0cde233c41c8f90d9616e4f5b8cee9a6c2ea193aa",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v2.md": "184e07df3bcb8396c6983f2cd0ce68dd186541e2bff8bd51d9ef85391c733ed8",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v3.md": "20ca816d201ba855935a609d0c98ab865b6453b246642f0e25b58be3e65967de",
+    "contexto/parte_d/verificacao_parte_d.json": "ebcc5f671c50aef4a20172f78021c9fbff45e9469fcf1efb637f7fe1323105f1"
+  },
+  "evidencias_copiadas": {
+    "relatorio_revisao.md": "e5076e0173a7ffd777f3c8cbed540dbdd81fb466036abd638393921ebf468935",
+    "verificacao_mermaid.json": "9cd64c0997149379216c590041ee8e921d8c3a4c71a5f00c5adf72df2a12aac0",
+    "bloco_1.svg": "3984a859150b8b7ba2fe0790df0f371c186bdb5f90a7bc541ccd2dbdcb1baa65",
+    "bloco_2.svg": "07a9d30d285316548860984b5ceeb7777359db0e926e078b92b7d6977a1cefed",
+    "bloco_3.svg": "2df18a0ede9e3bc5b86dfcb76e2744acef4c10614cb637c5285564f18ef5c92b"
+  },
+  "validacao": "Mermaid 12.3.0 segundo relatório e evidências fornecidos; hashes conferidos nesta continuação",
+  "visual_github_inspecionada": false
+}

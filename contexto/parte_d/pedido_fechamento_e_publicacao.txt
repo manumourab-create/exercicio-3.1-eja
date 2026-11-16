@@ -1,0 +1,42 @@
+# Exercício 3.1 — Registrar revisão local da Parte D e publicar no GitHub
+
+Projeto correto: /Users/rosyemannuelemouradossantos/Documents/ChatGPT/exercicio-3.1-eja
+Não trabalhar no projeto MANU/exercício 2.1. Confira o diretório antes de qualquer alteração.
+
+## Escopo desta continuação
+
+Registrar a revisão posterior da Parte D, preservar os entregáveis anteriores e publicar o repositório público do exercício 3.1. Não executar autograde nem submissão nesta etapa. Não iniciar outra entrevista ou inventar falas da estudante.
+
+A revisão no Codex desktop foi concluída: três blocos passaram pelo parser e pelo renderizador Mermaid 12.3.0 local, com conferência visual e de coerência com C. Não se identificou correção substantiva obrigatória. As evidências já estão prontas em /private/tmp/exercicio-3.1-eja/validacao_parte_d/. Leia o relatório integral antes de editar.
+
+## 1. Conferência e preservação
+
+Leia README.md, a seção final de D_diagrama_asis.md e os cinco arquivos de evidência (relatorio_revisao.md, verificacao_mermaid.json e três SVG). Leia instruções locais aplicáveis, se existirem.
+
+O SHA-256 de D na revisão é 7b57ce13ef2e4f648088048e2cec4a713072bd61eb2c4d3d88d25746df075399. Confira antes de alterar. Se o hash mudou, compare o conteúdo e os três blocos com a evidência; não atribua validação a blocos diferentes. Preserve os hashes de A, todos os B, todos os C e contexto/exercicio_2_1. Preserve também contexto/parte_d/verificacao_parte_d.json, que registra corretamente a situação anterior, quando não havia parser/renderização disponível no PATH.
+
+## 2. Incorporar as evidências e atualizar o estado atual
+
+- Copie somente os cinco arquivos prontos de /private/tmp/exercicio-3.1-eja/validacao_parte_d/ para contexto/parte_d/validacao_local/. Compare os arquivos após a cópia. Se houver arquivo existente diferente, não sobrescreva sem investigar a diferença.
+- Preserve cópias de D_diagrama_asis.md e README.md anteriores a esta atualização em contexto/historico/validacao_parte_d_2026-11-16/. Não sobrescreva cópia histórica diferente.
+- Em D_diagrama_asis.md, mantenha integralmente os três blocos Mermaid, as relações, a legenda, os quadros e a fundamentação. Atualize somente o estado de validação na seção final: a primeira execução teve conferência textual; a revisão posterior de 16/11/2026 validou e renderizou localmente os três blocos em Mermaid 12.3.0, com inspeção visual. Acrescente links relativos para contexto/parte_d/validacao_local/relatorio_revisao.md e verificacao_mermaid.json e para as três prévias SVG. Informe que os diagramas são extensos e requerem ampliação, e que a renderização no GitHub pode diferir. Não chame esta revisão de autograde ou de nova auditoria normativa.
+- Preserve o fato histórico de que Git/publicação não haviam sido executados na elaboração inicial. Registre a publicação atual somente depois de seu sucesso.
+- Atualize no README o item 9, o andamento da Parte D e o ponto de parada: revisão concluída e validação local realizada, com link ao relatório; mantenha a autoria real e as pendências documentais. Atualize a situação de publicação somente conforme o resultado efetivo.
+- Guarde uma cópia deste pedido em contexto/parte_d/pedido_fechamento_e_publicacao.txt.
+- Confira por hash que os três blocos Mermaid são exatamente os mesmos da revisão e que A/B/C e contexto 2.1 continuam intactos. Registre a conferência da cópia/atualização em um novo arquivo JSON em contexto/parte_d, sem alterar o registro anterior.
+
+## 3. Preparar e publicar o repositório público do exercício 3.1
+
+A publicação pública é a próxima etapa do enunciado e desta instrução. Conta esperada, conforme exercício 2.1: manumourab-create. Repositório pretendido: exercicio-3.1-eja. Confirme a conta autenticada com GitHub CLI sem exibir tokens. Se gh não estiver no PATH, verifique /opt/anaconda3/bin/gh. Se faltar autenticação, informe o comando de login necessário e pare nesse ponto; não solicite senha ou token na conversa.
+
+Antes da publicação, confira os nove entregáveis, nome completo no README, links atuais, marcador .autograde-exercise contendo apenas 3.1 e quebra de linha, e arquivos de contexto necessários. Os mínimos de palavras já foram atendidos na revisão; não resuma os relatórios.
+
+Inspecione se já existe .git/remoto ou repositório remoto com esse nome. Não sobrescreva outro trabalho nem reaproveite o repositório do exercício 2.1. Se o repositório local ainda não existir, inicialize-o. Use o prefixo codex/ se for criar uma branch nova. Configure autoria somente com identidade verificável existente ou informação realmente fornecida; não invente e-mail.
+
+Prepare um commit com os nove entregáveis, README, .autograde-exercise, contexto e as duas skills usadas em .agents/skills (incluindo as licenças). Revise a lista de arquivos preparada antes do commit. Não inclua credenciais, .env, caches, node_modules, dependências de renderização, arquivos temporários do sistema, configuração pessoal ou .DS_Store. As bibliotecas usadas na revisão ficaram em /private/tmp e não pertencem ao repositório. Preserve os arquivos históricos como históricos.
+
+Crie o repositório público manumourab-create/exercicio-3.1-eja se não existir e publique o commit. Se já existir, confira que é o mesmo trabalho; não use force-push, não exclua histórico e não altere repositório alheio. Prefira operações idempotentes. Use a branch publicada como branch padrão do novo repositório, para que os nove entregáveis sejam encontrados na raiz. Não substitua uma branch padrão existente sem verificar seu conteúdo.
+
+Confirme no GitHub a visibilidade pública, a branch padrão, o commit enviado e a presença dos nove arquivos na raiz. Se houver visualizador disponível, confira também a renderização dos blocos de D no GitHub; caso contrário, informe que a conferência visual realizada foi local e que a compatibilidade visual específica do GitHub continua não inspecionada. Não declare visualização que não realizou.
+
+Atualize o README com a URL real e o estado concluído de publicação, comite e publique essa atualização se necessário. Não declare resultado antes de verificar. Pare após informar: URL do repositório, branch/commit final, arquivos atualizados, preservação dos anteriores e estado da renderização. Autograde e submissão permanecem para a próxima etapa.

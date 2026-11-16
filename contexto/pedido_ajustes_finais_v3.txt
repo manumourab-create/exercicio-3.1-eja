@@ -1,0 +1,88 @@
+AJUSTES FINAIS DE CONSISTÊNCIA DA V3 — EXERCÍCIO 3.1
+
+Você é o assistente 1 (Gemini / Antigravity CLI). O Codex conferiu a v3 e constatou avanços importantes: os 17 IDs R foram abordados, as três fronteiras estão na posição correta, a classificação passou a incluir Conselho de Classe, as fontes principais foram corrigidas e os dez PF têm cinco células. Contudo, as contradições abaixo ainda existem no corpo. Corrija pontualmente B_relatorio_assistente_v3.md e o status do README. Preserve tudo o que já está correto.
+
+Isto é fechamento dos pontos da segunda auditoria, NÃO uma nova pesquisa ou uma versão v4. Não reescreva o relatório inteiro, não acrescente novos atores ou normas e não altere v1, v2, A ou as duas auditorias. A cópia da v3 recebida foi preservada em contexto/historico/B_relatorio_assistente_v3_antes_ajustes_finais.md. Leia esta instrução até o fim antes de editar.
+
+1. NIS E DOCUMENTAÇÃO — R03
+
+O art. 15, § 3º, da Portaria 16.735/2025 declara residência, CPF e NIS obrigatórios para todos os estudantes nos procedimentos descritos. A condição de beneficiário da alínea m se refere ao cartão do Programa Auxílio Brasil, não ao NIS. Corrija TODAS as três ocorrências atuais que limitam o NIS: tabela R03, etapa 2 e H2. Use a formulação: "NIS, expressamente exigido pelo art. 15, § 3º, da portaria consultada; o encaminhamento de candidato sem NIS precisa ser confirmado junto à rede, sem presumir dispensa ou negativa automática".
+
+A enumeração da etapa 2 continua parcial. Nomeie-a como síntese dos requisitos destacados, remeta à íntegra do art. 15 e explique que existem outros documentos e condições de aplicação. Não sugira que quatro documentos esgotam a lista. O dispositivo menciona certidão ou RG; não atribua literalmente a ele CNH ou CIN. Se mantiver CIN, cite base específica; caso contrário, use somente a terminologia do artigo. Não invente a dispensa de um requisito para resolver a lacuna.
+
+Fonte conferida pelo Codex nesta checagem:
+https://www.matriculaonline.al.gov.br/storage/pdfs/16_16_DI%C3%81RIO%20CRONOGRAMA%20MATR%C3%8DCULA.pdf
+Art. 15, alíneas b, d, m e § 3º, páginas impressas 29–30.
+
+2. CURSO EM ANDAMENTO E DESFECHOS — R06/R07
+
+A tabela R07, a etapa 5 e H7 ainda ligam a categoria exclusivamente à oferta que "ultrapassa o corte da coleta" ou a "continuam cursando o módulo ativo". Substitua pela formulação conceitual precisa: "No caderno Inep da coleta 2025, curso em andamento corresponde à situação em que, ao término do ano letivo, o estudante permanece em atividades ainda não concluídas, sem resultado final da etapa. Resultados intermediários de módulos não equivalem automaticamente ao rendimento final da etapa. A situação individual deve ser verificada; a continuidade da turma não transforma abandono em curso em andamento. A operacionalização na coleta aplicável permanece a conferir."
+
+Não misture a data de referência da matrícula inicial, o período de preenchimento e o término do ano letivo. No esquema H7, troque "Censo 2025" por "Declaração censitária; conceitos de referência: caderno 2025", pois o serviço descrito é de 2026.
+
+Na etapa 5, item 3, explique a permissão de avanço de reprovados para o módulo seguinte ofertado e a exigência de aprovação nos quatro módulos/ênfases para conclusão (art. 24, § 2º). A compatibilização com progressão parcial geral, equivalências e procedimentos locais continua pendente: explicite isso ali e no item 7.2, em vez de declarar na tabela inicial que a pendência está preservada sem a apresentar no corpo. Não afirme desligamento automático por faltas; em PF-05 prefira "risco de interrupção/abandono" a "desligamento formal" sem critério demonstrado.
+
+Fonte já consultada na segunda auditoria; nesta checagem uma tentativa de extração retornou HTTP 502, portanto registre honestamente se você não conseguir reabrir:
+https://download.inep.gov.br/publicacoes/institucionais/estatisticas_e_indicadores/cadernos_de_conceitos_e_orientacoes_da_segunda_etapa_do_censo_escolar_2025_situacao_do_aluno_ed.pdf
+Seções 3 e 5, páginas impressas 8 e 12. Não invente nova consulta bem-sucedida.
+
+3. ATORES E ARQUITETURA NÃO COMPROVADOS — R04/R10/R11
+
+Na matriz, substitua "Comissão/docentes lavram" por "Equipe responsável pela avaliação registra formalmente o processo; composição/designação local a confirmar". Nenhuma comissão foi comprovada e o Exercício 2.1 já afastava comissões inventadas. Preserve a deliberação do Conselho de Classe.
+
+Substitua "Secretaria escolar escritura notas, atas de resultados e livros de concluintes no SAGEAL" por "Secretaria mantém a escrituração acadêmica e os registros oficiais; o SAGEAL apoia a gestão escolar, sem comprovação de módulos específicos para livros ou atas de concluintes". No H7, use igualmente linguagem funcional, sem afirmar que toda ata está dentro do SAGEAL.
+
+Em H4, remova a atribuição de parametrização do software especificamente à GEE/Superintendência. Distinga autorização de turmas (conforme a norma aplicável) de configuração técnica do sistema (responsável a confirmar).
+
+Na alimentação, não atribua a toda "equipe de nutrição" o preparo em cozinha. Separe planejamento técnico de cardápios sob a instância competente da Seduc (art. 56 da Portaria 1.133/2026), preparo pela equipe responsável/manipuladores (execução local a confirmar) e entrega visível ao estudante. A localização em cozinha/refeitório e a visibilidade exata são hipóteses de arranjo local, não observações realizadas.
+
+4. EVIDÊNCIAS E ROTINAS AINDA ASSERTIVAS — R09/R11
+
+A matriz já chama recibo de hipótese, mas a ação do cidadão diz "Retira comprovante de matrícula" e H3 afirma entrega certa. Harmonize: "Recebe orientação/resultado da matrícula; forma e suporte do comprovante a confirmar". Não afirme recebimento universal de objeto que não foi verificado.
+
+O portal possui função pública de impressão de inscrição e a norma prevê comprovante de resultado. Isso não prova o layout de uma tela dinâmica nem formato numérico de protocolo. Substitua afirmações de "tela ... número de protocolo" por "registro/resultado da inscrição no canal; função pública de impressão identificada, detalhes da tela e formato a confirmar". Faça isso na matriz, H1 e quaisquer ocorrências semelhantes. Preserve o frontstage digital como apresentação/interação visível com o canal, sem alegar comportamento técnico inspecionado.
+
+Na narrativa das etapas 3–4 e nas células correspondentes, qualifique acolhimento no pátio, murais de salas, refeitório e entrega de merenda como representação analítica de contato/rotina local a confirmar. Mantenha como dever normativo a alimentação, e como não verificada sua execução em cada unidade. O calendário visível tem fonte específica e pode continuar como evidência normativa. Não generalize que todo aluno trabalha ou depende de transporte.
+
+5. AJUS E LIMITES DE BUSCA — R12/R15
+
+Remova as conclusões que certificam o decreto como plenamente vigente após todas as mudanças ou dizem que o procedimento "depende de instrução normativa pública específica". Use: "O Decreto 90.347/2023 documenta a previsão estadual da AJUS. A pesquisa não confirmou sua compatibilização operacional atual com as diretrizes de 2025 nem identificou o sistema de prevenção do art. 52 da Portaria 1.133/2026. Não se conclui revogação, validade irrestrita ou necessidade jurídica de um novo ato apenas da ausência de documento localizado." Aplique na tabela R12, quadro de fontes e seção 7.2.
+
+Substitua "não havendo documento público" em 1.2 e "não constam em bases públicas abertas" em PF-07 por "não localizado nas buscas realizadas", delimitando o objeto. Não apresente ausência de consulta como inexistência documental.
+
+Na seção 7.1, remova as alegações sem URL específica: "Notícias institucionais sobre início do ano letivo", "Página institucional do Programa Escola 10 / Busca Ativa" e "Divulgações institucionais ... agricultura familiar". Preencha essas células com a informação normativa realmente consultada ou "não foi verificada publicação operacional específica". Não acrescente links inventados para manter o texto.
+
+Não acrescente "edição extraordinária/extra" à publicação de 31/12/2022 sem documento que comprove essa característica. A data do ato e a data de publicação já estão corretas e devem ser preservadas.
+
+6. BIFURCAÇÃO DO ESQUEMA E PRECISÃO DA REENTURMAÇÃO — R04/R05/R08
+
+O esquema atual não mostra claramente a rota com histórico, e suas linhas podem sugerir bypass da conferência ou classificação para todos. Refaça somente o esquema preliminar da seção 5 (não crie D_diagrama_asis.md), com relações inequívocas:
+- Portal/alocação (H1) → atendimento/conferência (H2).
+- Entrada presencial direta → atendimento/conferência (H2).
+- H2 → decisão sobre existência de comprovante de estudos.
+- Com comprovante: análise documental → análise/deferimento pelo gestor e secretário.
+- Sem comprovante: avaliação/registro e deliberação do Conselho de Classe (H3) → análise/deferimento pelo gestor e secretário.
+- Deferimento → registro/enturmação (H4) → coordenação/docentes (H5) → acompanhamento (H6) → resultados/declaração (H7).
+Nenhuma entrada pode pular H2. O esquema é de pesquisa, sem antecipar as decisões da estudante na Parte C.
+
+Na etapa 3 e PF-04, a previsão de reenturmação ao término de bimestre/módulo está no CAPUT do art. 23. O parágrafo único trata do pedido excepcional via SEI/GEE. Não atribua o primeiro conteúdo ao segundo. Explique a regra e as exceções com referência também ao art. 24, §§ 5º–6º, evitando converter todo o fluxo em uma escolha simples da gestão.
+
+Em PF-10 e H1, descreva possibilidade de alocação divergente conforme critérios/disponibilidade/formação de turmas previstos no art. 12, §§ 2º–3º, sem presumir algoritmo automático ou impor esgotamento de todas as três opções como requisito universal de ambos os parágrafos.
+
+7. PERGUNTAS DA ENTREVISTA — R16
+
+Na questão 4 de 7.3, NÃO ofereça retirar a resposta visível da interface do frontstage e colocá-la somente nas Ações do Cidadão. As ações do usuário e as respostas percebidas do serviço são distintas. A pergunta válida é sobre nível de detalhe: frontstage digital integrado ao atendimento presencial, com identificação do canal, ou subfluxo digital destacado dentro da mesma camada.
+
+Na questão 5, preserve as cinco camadas fixas e pergunte como destacar alimentação e transporte DENTRO delas, mantendo dever normativo e execução local a confirmar. Não ofereça camadas novas que substituam as cinco exigidas.
+
+O recorte estadual de Alagoas, Ensino Médio Modular, 18+ e acesso/permanência está decidido. Não transforme unidade ilustrativa em estudo de campo ou mude esse recorte sem decisão expressa da estudante.
+
+8. FECHAMENTO E VERIFICAÇÃO — R01
+
+Após editar, confira cada ocorrência afetada. Atualize as linhas R03/R06/R07/R09/R10/R11/R12/R15/R16 da tabela inicial para descrever honestamente o que foi alterado e o que permanece pendente. Preserve os gatilhos R da segunda auditoria; não precisa criar outro relatório de auditoria.
+
+Substitua a declaração final de perfeição por uma declaração factual: pesquisa documental revisada, com fontes identificadas e pendências explícitas, sem observações locais; ainda não é o blueprint final decidido em entrevista. No README mantenha a autoria da pesquisa Gemini e das auditorias Codex, informando a aplicação dos ajustes de consistência vinculados à segunda auditoria.
+
+CONFIRA EXPRESSÕES RESIDUAIS ANTES DE TERMINAR: "quando beneficiário social", "para beneficiários de programas sociais", "Comissão/docentes", "livros de concluintes no SAGEAL", "não constam em bases públicas abertas", notícias sem URL, conclusão de curso associada só ao corte da coleta, e desfechos de matrícula que pulam a conferência. Se aparecerem apenas para explicar a correção, deixe inequívoco que são trechos antigos descartados.
+
+Não execute Git, autograde ou submissão. Não produza v4, terceira auditoria, entrevista, respostas da estudante ou arquivos C/D. Ao concluir os ajustes pontuais, informe as alterações reais e pendências e pare para a conferência final. Não diga que algo foi corrigido sem verificar o próprio texto.

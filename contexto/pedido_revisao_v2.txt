@@ -1,0 +1,15 @@
+Estamos realizando o Exercício 3.1 sobre acesso e permanência na EJA Modular do Ensino Médio da rede estadual de Alagoas, para pessoas com 18 anos ou mais. Preserve o recorte integrado e estadual do Exercício 2.1.
+
+Você é o assistente 1 (Gemini / Antigravity CLI). O assistente 2 (Codex / OpenAI) concluiu a primeira auditoria independente.
+
+1. Leia integralmente A_meta_prompt.md, contexto/roteiro_3_1.md, B_relatorio_assistente_v1.md e B_relatorio_auditoria_v1.md. Consulte o contexto do Exercício 2.1 e as fontes locais quando necessário.
+2. Produza a pesquisa revisada completa em B_relatorio_assistente_v2.md, com pelo menos 300 palavras. Ela deve funcionar como relatório autossuficiente, não apenas como resposta à auditoria.
+3. Aborde individualmente TODOS os 19 achados F01 a F19, incluindo os subpontos. Para cada um: (a) corrija com texto novo; (b) defenda com argumento e fonte verificável; ou (c) marque como pendente, explicitando o limite da evidência. Inclua tabela com ID, decisão, justificativa e seção exata em que o tratamento aparece. Não declare resolvido um problema que permanece afirmado na narrativa ou nas tabelas.
+4. Corrija as fronteiras: Evidências → Ações do Cidadão → Linha de Interação → Frontstage → Linha de Visibilidade → Backstage → Linha de Interação Interna → Suporte. As etapas devem ser formuladas pela ótica do estudante. Preserve pelo menos cinco etapas.
+5. Confira especialmente ingresso contínuo, classificação sem comprovante de estudos, deferimento da matrícula, responsabilidades, desfechos modulares e busca ativa. Diferencie obrigação normativa, informação operacional pública, hipótese analítica e execução local não verificada em cada seção relevante. Não invente automações, integração entre bases, formulários, horários, prazos, transporte, alimentação, relatos ou taxas de abandono.
+6. Verifique as fontes na web quando possível e cite URLs e dispositivos. Use as extrações em contexto/fontes_2_1/ com atribuição transparente de reutilização. Registre os acessos efetivamente realizados e as limitações. Corrija os metadados acadêmicos e legais. Se uma fonte não for acessível, use reprodução institucional identificada ou preserve a pendência; não finja ter lido.
+7. Mantenha o foco AS-IS. Não proponha implantação de novas soluções como se já existissem. Mantenha códigos dos fail points ou apresente correspondência explícita se forem alterados. Use cenários condicionais para riscos sem ocorrência local comprovada.
+8. Atualize somente o status correspondente no README.md, preservando o nome Rosy Emannuele Moura dos Santos Bomfim, o índice dos nove entregáveis e a identificação dos dois assistentes.
+9. Preserve A_meta_prompt.md, B_relatorio_assistente_v1.md, B_relatorio_auditoria_v1.md e todos os arquivos do Exercício 2.1. Não produza a segunda auditoria, não gere v3 e não inicie /grill-me, Parte C ou Parte D. Não execute Git, autograde nem submissão.
+
+Ao terminar, informe os arquivos gravados, quantos achados foram corrigidos/defendidos/mantidos pendentes e quais pendências continuam. Pare para que o assistente 2 realize a segunda auditoria.

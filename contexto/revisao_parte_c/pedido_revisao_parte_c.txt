@@ -1,0 +1,38 @@
+REVISÃO LOCALIZADA DA PARTE C — EXERCÍCIO 3.1 — 16/11/2026
+
+A revisão de acompanhamento comparou o blueprint com o enunciado, o transcript, as respostas efetivamente enviadas pela estudante e a pesquisa de apoio. A estrutura principal está adequada: cinco etapas, cinco camadas, três fronteiras na ordem correta, dez rodadas registradas, os 17 atores/funções da Q9 e os quatro riscos da Q7. As ressalvas e a diferença entre pesquisa documental e observação local foram preservadas. Não se trata de outra auditoria da Parte B nem de validação pelo autograde.
+
+Aplique somente os ajustes abaixo no C_grill_transcript.md, C_blueprint_asis.md e no status factual do README.md, preservando as decisões e as dez respostas literais da estudante. Não solicite nova entrevista para corrigir a transcrição ou harmonizar a representação já decidida. Não avance para a Parte D nesta etapa.
+
+ANTES DE EDITAR
+
+1. Leia este pedido integralmente e os dois arquivos C.
+2. Preserve cópias dos dois arquivos C e do README em contexto/historico/revisao_parte_c_2026-11-16/. Se já houver cópia diferente nesse destino, não a sobrescreva: use outro nome identificável.
+3. Copie este pedido e /private/tmp/exercicio-3.1-eja/q10_efetivamente_exibida.txt para contexto/revisao_parte_c/ como evidência da revisão. Esses dois arquivos foram preparados na conversa de acompanhamento. O segundo contém a Q10 efetivamente mostrada no terminal e colada pela estudante, com apenas a quebra visual de linhas e indentação do terminal normalizadas. Não é uma pergunta nova nem uma resposta fabricada.
+4. Calcule os hashes dos arquivos A/B e contexto/exercicio_2_1, e extraia as dez respostas literais para compará-las após a edição. Nenhum desses conteúdos será alterado.
+
+C01 — Q10 EFETIVAMENTE EXIBIDA NÃO ESTÁ TRANSCRITA INTEGRALMENTE
+
+O transcript atual registra uma formulação extensa da Q10, iniciada por dois itens separados, "Recorte" e "Cinco etapas". A pergunta efetivamente exibida no terminal, fornecida pela estudante na conversa de acompanhamento, começa pelo item conjunto "Recorte e etapas" e tem diferenças de redação também nos demais itens, alternativas e fechamento. A nota final admite que a conversa apresentou um resumo, mas isso não substitui sua transcrição integral exigida pelo enunciado.
+
+Na rodada 10, apresente a versão efetivamente exibida que está no arquivo q10_efetivamente_exibida.txt como a pergunta à qual a estudante respondeu. Preserve integralmente sua resposta já registrada. Não altere a resposta para fazê-la combinar com uma pergunta preparada anteriormente.
+
+Preserve também a formulação extensa anterior, na cópia histórica ou em bloco claramente identificado como "redação preparada anteriormente; não exibida integralmente". Não apresente duas formulações como se ambas tivessem sido feitas à estudante. Acrescente nota editorial identificada com autor/data e origem da recuperação. Ajuste o fechamento do registro para dizer precisamente o que foi corrigido e que as dez respostas e decisões foram mantidas. Não alegue ter reconstituído eventos que não foram fornecidos; não altere Q1–Q9.
+
+C02 — HARMONIZAR AÇÕES E MARCADORES ENTRE CAMADAS
+
+a) Na matriz, E2 tem "equipe responsável aplica avaliação" no frontstage e "equipe responsável avalia e registra formalmente" no backstage. A conferência de documentos também aparece de modo absoluto no backstage, enquanto sua visibilidade concreta não foi observada. A Q3 adotou classificação por ação, e não por instituição inteira.
+
+Esclareça a diferença entre aplicação/interação da avaliação diante do estudante (frontstage) e análise de resultados, registro e deliberação fora desse contato (backstage). Do mesmo modo, diferencie recepção/orientação e eventual conferência percebida pelo estudante de análise documental interna. A norma fundamenta a atividade; ela não comprova que cada procedimento acontece fora da vista do cidadão. Preserve [H/L] para a divisão concreta e não invente uma nova rotina local. Mantenha a avaliação/classificação somente no percurso cabível e o Conselho de Classe na deliberação interna. Harmonize a nota de leitura e, se necessário, H2/H3 sem modificar a sequência ou as competências já confirmadas.
+
+b) O marcador PF-05 aparece somente na célula de backstage da E4, mas a seção 5 o define pelas dificuldades de frequência, trabalho/cuidado e pelo contato/acompanhamento escolar. Posicione seu marcador também, ou principalmente, junto à ação do cidadão/contato pertinente em E4. Se fizer referência no backstage, indique especificamente sua relação com o acompanhamento interno, sem sugerir que o conflito de disponibilidade nasce exclusivamente nos bastidores. PF-08 continua associado à comunicação interna da busca ativa. Preserve os quatro códigos selecionados, as condições e o status de riscos inferidos, sem afirmar ocorrência local.
+
+VERIFICAÇÃO E ENTREGA
+
+- Confira dez rodadas e compare literalmente as dez respostas antes/depois: devem ser idênticas.
+- Confira a Q10 transcrita contra o texto efetivamente exibido fornecido; alterações de quebra visual/indentação podem ser informadas, mas não parafraseie o conteúdo.
+- Confira cinco etapas, cinco camadas, três fronteiras, 17 atores/funções confirmados, quatro riscos e o alinhamento dos marcadores com a tabela de riscos.
+- Compare os hashes de A/B e contexto/exercicio_2_1; devem permanecer iguais. Preserve as cópias históricas.
+- Atualize o README com a revisão localizada e seus limites. Não declare revisão factual integral das fontes nem aprovação pelo autograde.
+- Informe quais ajustes foram feitos e quais arquivos foram salvos. Pare após a Parte C para conferência.
+- NÃO execute Git, publicação, autograde ou submissão. NÃO produza D_diagrama_asis.md nesta etapa.

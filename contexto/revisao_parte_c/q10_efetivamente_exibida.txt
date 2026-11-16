@@ -1,0 +1,25 @@
+❓ **Q10 — Confirmação final do entendimento:** O resumo abaixo representa o blueprint que você decidiu construir?
+
+• **Recorte e etapas:** EJA Modular do Ensino Médio estadual de Alagoas, pessoas 18+, com as cinco etapas confirmadas na Q9, da busca de informação aos desfechos e retorno.
+
+• **Ingresso:** entradas digital e presencial convergem na conferência; via documental e classificação ficam explícitas, convergindo no deferimento antes do registro e da enturmação.
+
+• **Camadas e fronteiras:** Evidências → Ações do Cidadão → Linha de Interação → Frontstage → Linha de Visibilidade → Backstage → Linha de Interação Interna → Suporte. Contatos digital e presencial identificados no mesmo frontstage.
+
+• **Atores:** seleção nominal da tabela da Q9, incluindo equipes escolares, colegiados, instâncias regionais e centrais, funções técnicas e responsáveis pelos apoios, com todas as ressalvas confirmadas. Sistemas e programas permanecem distintos das equipes; CRAS, Saúde e apoio pessoal ficam como contexto a investigar.
+
+• **Permanência e desfechos:** apoios nas células pertinentes; conclusão modular, avanço com pendências, conclusão integral, transferência, interrupção e retorno separados. Sem aproveitamento automático; declaração censitária distinta do resultado modular.
+
+• **Riscos destacados:** PF-02, PF-05, PF-08 e PF-10, identificados como inferidos, sem ocorrências locais comprovadas.
+
+• **Formato final:** matriz em Markdown, quadro de passagens de responsabilidade e quadro de rastreabilidade. Rótulos nas células e pendências explícitas sobre AJUS, GEGEV, TI, apoios, comprovantes/devolutivas, progressão e declaração censitária.
+
+1. **Confirmar esse entendimento e formato**, para elaborar C_blueprint_asis.md.
+
+2. **Corrigir antes de elaborar**, indicando o ponto que precisa de ajuste.
+
+➡️ Recomendo a opção 1 **se o resumo corresponde às suas decisões**.
+
+A skill grilling (.agents/skills/grilling/SKILL.md) exige: “Do not act on it until the user confirms you have reached a shared understanding.” Por isso aguardo esta confirmação antes do blueprint; ela não autoriza Git, autograde, submissão ou a Parte D.
+
+**Você confirma esse entendimento e formato ou deseja corrigir algum ponto?**

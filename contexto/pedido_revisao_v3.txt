@@ -1,0 +1,33 @@
+Estamos na etapa B5 do Exercício 3.1. Você é o assistente 1, Gemini / Antigravity CLI. O assistente 2, Codex / OpenAI, concluiu a segunda auditoria em B_relatorio_auditoria_v2.md.
+
+Leia integralmente A_meta_prompt.md, contexto/roteiro_3_1.md, B_relatorio_assistente_v2.md e B_relatorio_auditoria_v2.md. Consulte também a primeira auditoria e o contexto do Exercício 2.1 quando necessário.
+
+Produza B_relatorio_assistente_v3.md como PESQUISA FINAL INTEGRAL e autossuficiente, com no mínimo 300 palavras, preservando o serviço: acesso e permanência na EJA Modular do Ensino Médio da rede estadual de Alagoas, pessoas 18+, recorte estadual geral. Evite repetir as 11 mil palavras da v2 sem necessidade; priorize precisão e coerência.
+
+TRATAMENTO OBRIGATÓRIO DA SEGUNDA AUDITORIA:
+- Aborde individualmente TODOS os pontos R01 a R17, incluindo cada subitem de R14 e as pendências da tabela F01–F19. Cada mudança da v2 para a v3 deve citar o ID R que a motivou.
+- Inclua tabela: ID da auditoria v2 | corrigido/defendido com evidência/pendente | mudança concreta em relação à v2 | seção exata | fonte ou limite de evidência.
+- Corrigir a tabela de resposta não basta: procure e trate TODAS as ocorrências nos parágrafos, matriz, handoffs, fail points, perguntas e referências.
+- Não declare tudo corrigido se restar afirmação contraditória. Uma rotina desconhecida pode permanecer pendente, explicitamente qualificada no local da afirmação.
+
+PONTOS DE ATENÇÃO CONCRETOS (NÃO SUBSTITUEM A LEITURA INTEGRAL DA AUDITORIA):
+1. A LDB art. 37, § 1º, II NÃO existe. Use a base correta de idade para cursos: art. 16 da Resolução CNE/CEB 3/2025 e art. 20, II, da portaria estadual. Art. 38, § 1º, II, da LDB refere-se a exames.
+2. O art. 15 da portaria não enumera CNH. Certidão não possui foto. A lista operacional omite NIS. Verifique também os demais requisitos e seus condicionantes, sem tornar uma lista parcial exaustiva.
+3. O art. 18, § 2º, da Resolução CNE/CEB 3/2025 exige registro formal da avaliação de classificação e deliberação do Conselho de Classe. Inclua essa passagem de responsabilidade antes do ingresso, sem inventar formato de prova ou prazo.
+4. A norma citada estabelece mínimo 40/máximo 50 para EJA Ensino Modular, sem a faixa de 30–50 diurno inventada na v2. Leia os arts. 23–24 integralmente, inclusive exceções, datas e competências.
+5. Corrija a distinção entre andamento da turma e situação individual do aluno. Consulte o caderno do Inep 2025 indicado na auditoria, sem renomeá-lo como caderno 2026. Não apresente curso em andamento como substituto automático de abandono nem invente bloqueio de retorno.
+6. Não atribua sincronização de sistemas, livro eletrônico, certificação via SEI, assinaturas conjuntas ou suportes físicos sem evidência. Extração vazia de formulário não prova que a inscrição esteja fechada.
+7. Diferencie preparar e servir alimentos pela visibilidade da ação. Inclua a interação digital visível com o portal, mantendo desconhecido o mecanismo interno.
+8. Use efeitos possíveis para hipóteses de falha. Corrija a tabela de PF: cinco colunas exigem cinco células de conteúdo em cada linha. Remova setas causais entre riscos independentes. Analise também alocação em escola/turno diferente, conforme R17.
+9. Corrija publicação da Lei Delegada 48 para 31/12/2022, distinguindo data do ato 30/12/2022; páginas de Pedralli/Cerutti-Rizzatti para 771–788; localização do CEJA Remy Maia para Palmeira dos Índios.
+
+PRESERVAÇÃO E LIMITES:
+- Preserve os arquivos A, v1, auditoria v1, v2 e auditoria v2 e todo o contexto do Exercício 2.1. Não corrija erros retrospectivamente nas versões antigas.
+- Atualize o README com o status real da segunda auditoria e da v3, mantendo o nome completo da estudante, os nove links e os papéis de Gemini e Codex. Não declare execução local comprovada.
+- Use fontes verificáveis e registre acesso/reutilização/limitação com honestidade. As fontes novas e os dispositivos estão na segunda auditoria. Não invente consultas, observações, depoimentos ou dados estatísticos para resolver lacunas.
+- Mantenha o AS-IS documental e suas pendências. Não transforme propostas de melhoria em rotinas existentes.
+- Não produza nova auditoria por conta própria. Não execute /grill-me, não gere respostas da estudante, C_grill_transcript.md, C_blueprint_asis.md ou D_diagrama_asis.md nesta etapa.
+- Não execute Git, autograde ou submissão.
+
+ANTES DE ENCERRAR:
+Confira a v3 inteira contra cada ponto R01–R17, verificando se a tabela de tratamento corresponde ao corpo. Informe os arquivos gravados e as pendências que continuam; então pare para que o Codex confira a versão final antes da entrevista real.

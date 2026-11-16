@@ -1,0 +1,54 @@
+{
+  "revisao": "C01/C02",
+  "autor": "Codex / OpenAI",
+  "data": "2026-11-16",
+  "copias_historicas": {
+    "C_grill_transcript.md": "contexto/historico/revisao_parte_c_2026-11-16/C_grill_transcript.md",
+    "C_blueprint_asis.md": "contexto/historico/revisao_parte_c_2026-11-16/C_blueprint_asis.md",
+    "README.md": "contexto/historico/revisao_parte_c_2026-11-16/README.md"
+  },
+  "hashes_protegidos_antes_depois_iguais": {
+    "A_meta_prompt.md": "4596ddcbdf16d409be568c94c286e88bd496ffbfae6ee64941681f1cc31699b2",
+    "B_relatorio_auditoria_v1.md": "63f52c6d6130ca6de88a8065302659a7a6565eea529d1855e0cd4a468447ece5",
+    "B_relatorio_assistente_v1.md": "6f46cf3ba1c8cafa43f3912bdbdf8d8390aff6ce848e12185f05143ab3c30e1c",
+    "B_relatorio_assistente_v2.md": "ef5a5b4db533371b48efc9f8f280bccd81b8f34e3c9a810c993380ea4d45adde",
+    "B_relatorio_auditoria_v2.md": "e05be73cb322efbaefc8d2adb1d2c1210a61ddbd8e99f529a0ebd547d28b199f",
+    "B_relatorio_assistente_v3.md": "2bc753148e095219f50f72c677aba631dc4df88a628d0cdb90a4599831a4c984",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v1.md": "284c80074a139fa28e06fd886b3f13ec716a8a8910b61dcaf7b7d742687a3b98",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v1.md": "2da6accc7f47c54df0ed9e9aa03ea04275ef9d1856845f2ddb322b4998a7bdc7",
+    "contexto/exercicio_2_1/README.md": "45b4630f323a3a818ac85dfbd15027e734566310d83305f4f1ad53e970de759a",
+    "contexto/exercicio_2_1/C_grill_transcript.md": "948ab38f9d1247684d474ecee1dbbf579291e75fbf4b6ffc4a10c0edd9ae7025",
+    "contexto/exercicio_2_1/C_mapa_atores.md": "5d0f2e902f7219f9dca0249f2d068fc54807c97654f86408c28a94897c5fe343",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v2.md": "18da8dece4a2c61fa751464c8dcf9dbb49c762ff21fd10e7cba13613779a5f51",
+    "contexto/exercicio_2_1/A_meta_prompt.md": "a0600b55dcb574e3f88267c0cde233c41c8f90d9616e4f5b8cee9a6c2ea193aa",
+    "contexto/exercicio_2_1/B_relatorio_auditoria_v2.md": "184e07df3bcb8396c6983f2cd0ce68dd186541e2bff8bd51d9ef85391c733ed8",
+    "contexto/exercicio_2_1/B_relatorio_assistente_v3.md": "20ca816d201ba855935a609d0c98ab865b6453b246642f0e25b58be3e65967de"
+  },
+  "respostas_literais_antes_depois_iguais": [
+    "6efc5652f198f8e48a75443496d913061f86b8ccb475a04d8c6456301a77fa69",
+    "4dbd6fe234362fa032cdab8d0cb895f581609420a76805ed0e97b7f93942090b",
+    "26a4b28b12ac44596cb835df226f770b31fe549aebc2dff17ff8ccd7d421046e",
+    "1de02df4f572bc99f6570eb69ee6f9b49ef9df928613dc63d02431d7814ab444",
+    "55fd97dd7cead8bea2324a59a9c86a3a6d4053ecda77bc91e3dfbbc3bed3e15b",
+    "a0f009dcb199b0afa6e08d6143cb393d70c3bcc0607f538a8a5d18ef00b83f50",
+    "c6ee20036758ca8e70603eb8ae8d2c895841add876aa3a87eee00ba55415fe9c",
+    "71722457dd8424a0ad4b9f546ab87d238e622a65d5f2625b37c7f4e08883c628",
+    "d0412ddb4790afc843609c1edc84708193cdbd25bceeafb6addf183be556507e",
+    "f89c09bda1782cb2504a36d1313ac104540b041aa616caeced062e79a600ce93"
+  ],
+  "q10_confere_integralmente": true,
+  "q1_q9_e_decisoes_inalteradas": true,
+  "estrutura": {
+    "etapas": 5,
+    "camadas": 5,
+    "fronteiras": 3,
+    "atores": 17,
+    "riscos": [
+      "PF-02",
+      "PF-05",
+      "PF-08",
+      "PF-10"
+    ]
+  },
+  "parte_d_produzida": false
+}
